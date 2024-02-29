@@ -11,5 +11,6 @@ MFC를 이용하여 GUI를 구현하였으며, DFS와 BFS 알고리즘을 이용
 ## Result Screens
 DFS 알고리즘으로 미로 경로를 찾은 결과
 <img width="646" alt="Result1" src="https://github.com/Choco-Coding/TheMaze/assets/117694927/fb372d52-17a5-410e-b929-85affa71e34a">
+
 BFS 알고리즘으로 미로 경로를 찾은 결과
 <img width="646" alt="Result2" src="https://github.com/Choco-Coding/TheMaze/assets/117694927/17f5e62e-0812-4649-ba78-2b2dfd625d25">
