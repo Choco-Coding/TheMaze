@@ -15,4 +15,6 @@ DFS 알고리즘으로 미로 경로를 찾은 결과
 BFS 알고리즘으로 미로 경로를 찾은 결과
 <img width="646" alt="Result2" src="https://github.com/Choco-Coding/TheMaze/assets/117694927/17f5e62e-0812-4649-ba78-2b2dfd625d25">
 
+
+
 - 빨간색 선이 찾은 경로이며, 파란색 배경색의 칸은 DFS 또는 BFS 알고리즘을 통해 방문한 지점을 나타낸 것입니다.
